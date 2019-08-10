@@ -1,4 +1,4 @@
-This is a repository to keep track of version releases of the CVLua scripts and keep track of any issues or feature requests.
+This is a public repository to keep track of version releases of the CVLua scripts and keep track of any issues or feature requests.
 
 Click the "Wiki" tab to learn about the project, how to set it up, and where to purchase hardware.
 
